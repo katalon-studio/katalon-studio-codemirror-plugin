@@ -55,9 +55,6 @@ public class CodeMirrorKeywords {
 	@CompileStatic
 	@Keyword
 	public static String clearText() {
-		WebDriver driver = DriverFactory.getWebDriver()
-		WebElement codeMirror = driver.findElement(By.xpath("//div[contains(@class,'CodeMirror ')]"))
-		JavascriptExecutor js = ((driver) as JavascriptExecutor)
-		js.executeScript(('arguments[0].CodeMirror.setValue("' + "") + '");', codeMirror)
+		setText("")
 	}
 }
