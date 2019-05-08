@@ -1,0 +1,21 @@
+.gradle
+
+build
+
+
+bin
+
+Data Files/temp
+
+Drivers/*.jar
+
+Reports
+
+.classpath
+
+.project
+
+.DS_Store
+
+gradlew
+gradlew.bat
