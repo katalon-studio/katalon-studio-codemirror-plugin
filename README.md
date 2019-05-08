@@ -1,4 +1,4 @@
-# Katalon Studio DateTimeUtility Plugin
+# Katalon Studio CodeMirror Plugin
 
 ## Develop
 
