@@ -6,6 +6,8 @@ WebUI.openBrowser('https://codemirror.net/')
 //set text to the CodeMirror
 CustomKeywords.'com.kms.katalon.keyword.codemirror.CodeMirrorKeywords.setText'('Code Mirror text')
 
+Thread.sleep(5000)
+
 //get text of the CodeMirror editor
 KeywordUtil.logInfo(CustomKeywords.'com.kms.katalon.keyword.codemirror.CodeMirrorKeywords.getText'())
 
