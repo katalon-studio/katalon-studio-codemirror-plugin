@@ -16,7 +16,7 @@ Make sure to open this project using Katalon Studio at least once.
 
 ## License
 
-Copyright (c) Katalon LLC. All rights reserved.
+Copyright (c) Katalon, Inc. All rights reserved.
 
 Licensed under the LICENSE AGREEMENT FOR KATALON AUTOMATION FRAMEWORK.
 
